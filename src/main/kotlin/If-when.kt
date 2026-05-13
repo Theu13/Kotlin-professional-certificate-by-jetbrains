@@ -1,11 +1,7 @@
 fun main() {
-
-
-
     //Basic
     if (true) {
         var someVariable = 100
-
 
         println("IF:")
         //1:
