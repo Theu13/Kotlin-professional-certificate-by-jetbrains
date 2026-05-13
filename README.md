@@ -28,18 +28,22 @@ O **Kotlin Professional Certificate by JetBrains** é uma trilha de aprendizado 
 
 ## ✅ Progresso
 
-| # | Curso | Status |
+| # | Funções, Coleções e E/S | Status |
 |---|-------|--------|
 | 1 | Tipos de dados comuns | 🟩 Concluído |
 | 2 | Trabalhando com funções | 🟩 Concluído |
 | 3 | Estrutura de fluxo de controle  | 🟩 Concluído |
 | 4 | Depuração de código Kotlin  | 🟩 Concluído |
-| 5 | Trabalhando com coleções | 🟧 Em andamento |
-| 6 | Trabalhando com I/O | ⬜ Não iniciado |
-| 🏆 | **Conclusão + Certificado** | ⬜ Pendente |
-
+| 5 | Trabalhando com coleções | 🟩 Concluído |
+| 6 | Trabalhando com I/O | 🟩 Concluído |
 
 ---
+
+| # | Código Orientado a Objetos e Assíncrono | Status |
+|---|-------|--------|
+| 1 | POO com Kotlin |  🟧 Em andamento |
+| 2 | Escrita do Kotlin idiomático  | ⬜ Não iniciado |
+| 3 | Código assíncrono com corrotinas  | ⬜ Não iniciado |
 
 ## 🎯 Objetivo
 
