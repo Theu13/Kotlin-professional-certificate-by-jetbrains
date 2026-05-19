@@ -41,8 +41,8 @@ O **Kotlin Professional Certificate by JetBrains** é uma trilha de aprendizado 
 
 | # | Código Orientado a Objetos e Assíncrono | Status |
 |---|-------|--------|
-| 1 | POO com Kotlin |  🟧 Em andamento |
-| 2 | Escrita do Kotlin idiomático  | ⬜ Não iniciado |
+| 1 | POO com Kotlin |  🟩 Concluído |
+| 2 | Escrita do Kotlin idiomático  | 🟧 Em andamento |
 | 3 | Código assíncrono com corrotinas  | ⬜ Não iniciado |
 
 ## 🎯 Objetivo
