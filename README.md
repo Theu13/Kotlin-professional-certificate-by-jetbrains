@@ -42,8 +42,20 @@ O **Kotlin Professional Certificate by JetBrains** é uma trilha de aprendizado 
 | # | Código Orientado a Objetos e Assíncrono | Status |
 |---|-------|--------|
 | 1 | POO com Kotlin |  🟩 Concluído |
-| 2 | Escrita do Kotlin idiomático  | 🟧 Em andamento |
-| 3 | Código assíncrono com corrotinas  | ⬜ Não iniciado |
+| 2 | Escrita do Kotlin idiomático  | 🟩 Concluído |
+| 3 | Código assíncrono com corrotinas  | 🟩 Concluído |
+
+---
+
+| # | Kotlin Multiplataform | Status |
+|---|-------|--------|
+| 1 | Primeiro APP |  🟧 Em andamento |
+| 2 | Nativo + multiplataforma  | ⬜ Não iniciado |
+| 3 | KMP e Swift  | ⬜ Não iniciado |
+| 4 | Arquitetura  | ⬜ Não iniciado |
+| 5 | Rede de Compartilhamento  | ⬜ Não iniciado |
+| 6 | Compartilhamento de banco de dados  | ⬜ Não iniciado |
+| 7 | Qualidade de vida  | ⬜ Não iniciado |
 
 ## 🎯 Objetivo
 
