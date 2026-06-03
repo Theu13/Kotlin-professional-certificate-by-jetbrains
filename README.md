@@ -49,8 +49,8 @@ O **Kotlin Professional Certificate by JetBrains** é uma trilha de aprendizado 
 
 | # | Kotlin Multiplataform | Status |
 |---|-------|--------|
-| 1 | Primeiro APP |  🟧 Em andamento |
-| 2 | Nativo + multiplataforma  | ⬜ Não iniciado |
+| 1 | Primeiro APP |  🟩 Concluído |
+| 2 | Nativo + multiplataforma  | 🟧 Em andamento |
 | 3 | KMP e Swift  | ⬜ Não iniciado |
 | 4 | Arquitetura  | ⬜ Não iniciado |
 | 5 | Rede de Compartilhamento  | ⬜ Não iniciado |
